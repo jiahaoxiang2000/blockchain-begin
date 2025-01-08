@@ -1,3 +1,17 @@
+---
+title: Blockchain Beginner Track
+date: 2025-01-08
+categories:
+  - Blockchain
+  - Learning
+tags:
+  - Binance Academy
+  - Blockchain
+  - Cryptocurrency
+  - DeFi
+  - Web3
+---
+
 # Binance Academy Beginner Track
 
 Resource link: <https://academy.binance.com/en/track/beginner-track>
