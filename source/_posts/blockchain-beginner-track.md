@@ -47,12 +47,6 @@ Double-spending is a potential issue in a digital cash system where the same fun
 - The centralized approach: blind sign a message to a bank, and the bank will check the balance and sign the transaction.
 - The decentralized approach: blockchain, the network will check the balance and sign the transaction.
 
-<!-- ## Example with Image
-
-Or with figure caption: -->
-
-<!-- {% asset_img image.png } -->
-
 ### Blockchain consensus mechanisms
 
 #### Proof of Work (PoW)
