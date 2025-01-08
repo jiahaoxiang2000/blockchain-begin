@@ -1,5 +1,5 @@
 ---
-title: Blockchain Beginner Track
+title: Blockchain Fundamentals
 date: 2025-01-08
 categories:
   - Blockchain
@@ -68,3 +68,12 @@ Double-spending is a potential issue in a digital cash system where the same fun
 - forks: a split in the blockchain network that occurs when two or more miners find a block at the same time.
   - hard fork: a permanent divergence in the blockchain.
   - soft fork: a temporary divergence in the blockchain.
+
+### use cases and limitations
+
+- financial services
+  - reduce the intermediaries
+  - faster and cheaper transactions
+- limited scalability
+  - the number of transactions per second is limited.
+  - forgot security key, the funds will be lost.
