@@ -12,7 +12,6 @@ tags:
   - Web3
 ---
 
-# Binance Academy Beginner Track
 
 Resource link: <https://academy.binance.com/en/track/beginner-track>
 
@@ -47,3 +46,9 @@ Double-spending is a potential issue in a digital cash system where the same fun
 
 - The centralized approach: blind sign a message to a bank, and the bank will check the balance and sign the transaction.
 - The decentralized approach: blockchain, the network will check the balance and sign the transaction.
+
+## Example with Image
+
+Or with figure caption:
+
+{% asset_img image.png "Blockchain Structure Diagram" %}
