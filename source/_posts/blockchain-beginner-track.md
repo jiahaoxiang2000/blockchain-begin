@@ -52,3 +52,21 @@ Double-spending is a potential issue in a digital cash system where the same fun
 Or with figure caption: -->
 
 <!-- {% asset_img image.png } -->
+
+### Blockchain consensus mechanisms
+
+#### Proof of Work (PoW)
+
+- PoW is a consensus algorithm that requires nodes to solve complex mathematical problems to validate transactions. (i.e, called mining, miner)
+  - expensive to produce but easy for others to verify.
+  - note: when the network more larger, the difficulty of the problem will increase.
+
+#### Proof of Stake (PoS) - 2011
+
+- PoS is a consensus algorithm that requires nodes to stake a certain amount of cryptocurrency to validate transactions.
+  - the more coins you hold, the more likely you are to be chosen to validate a block.
+
+### nodes and forks
+
+- nodes: a device that connects to a blockchain network.
+  - full nodes: download the entire blockchain and validate every transaction.
