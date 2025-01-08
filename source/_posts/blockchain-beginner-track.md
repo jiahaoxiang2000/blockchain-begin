@@ -69,4 +69,8 @@ Or with figure caption: -->
 ### nodes and forks
 
 - nodes: a device that connects to a blockchain network.
-  - full nodes: download the entire blockchain and validate every transaction.
+  - full nodes: download the entire blockchain and validate every transaction. (i.e Bitcoin Core over 400GB as of min-2022)
+  - light nodes: only download block headers and verify transactions. (i.e, SPV wallets)
+- forks: a split in the blockchain network that occurs when two or more miners find a block at the same time.
+  - hard fork: a permanent divergence in the blockchain.
+  - soft fork: a temporary divergence in the blockchain.
