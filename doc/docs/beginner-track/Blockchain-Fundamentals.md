@@ -1,13 +1,12 @@
 ---
-slug: blockchain-fundamentals
-title: Blockchain Fundamentals
-authors: [isomo]
-tags: [Blockchain]
+sidebar_position: 1
 ---
 
-Resource link: [beginner track](https://academy.binance.com/en/track/beginner-track)
+# Blockchain Fundamentals
 
 This course encompasses a series of modules focusing on the basics of **blockchain** technology, **cryptocurrencies**, decentralized **finance** (DeFi), **Web3**, and trading and investing strategies.
+
+Resource link: [beginner track](https://academy.binance.com/en/track/beginner-track)
 
 ## Blockchain
 
