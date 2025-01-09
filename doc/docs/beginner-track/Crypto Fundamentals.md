@@ -14,7 +14,7 @@ To overcome these problems, the digital currency is introduced. The digital curr
 
 ## Introduction to Bitcoin
 
-Bitcoin is the first cryptocurrency that was introduced in 2009 by an unknown person or group of people using the name Satoshi Nakamoto. Bitcoin is a decentralized digital currency that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Now to 2024, one bitcoin is equal to 1 million dollars.
+Bitcoin is the first cryptocurrency that was introduced in 2009 by an unknown person or group of people using the name Satoshi Nakamoto. Bitcoin is a decentralized digital currency that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Now to 2024, one bitcoin is equal to 10,000 dollars.
 
 ## Understanding different types of cryptocurrencies
 
