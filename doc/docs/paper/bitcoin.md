@@ -123,15 +123,19 @@ $$\lambda = z\frac{q}{p}$$
 
 To get the probability the attacker could still catch up now, we multiply the Poisson density for each amount of progress by the probability of catching up from that point:
 
-$$\sum_{k=0}^{\infty} \frac{\lambda^k e^{-\lambda}}{k!} \cdot
+$$
+\sum_{k=0}^{\infty} \frac{\lambda^k e^{-\lambda}}{k!} \cdot
 \begin{cases}
 (q/p)^{z-k} & \text{if } k \leq z \\
 1 & \text{if } k > z
-\end{cases}$$
+\end{cases}
+$$
 
 Rearranging to avoid summing the infinite tail of the distribution:
 
-$$1 - \sum_{k=0}^{z} \frac{\lambda^k e^{-\lambda}}{k!}(1-(q/p)^{z-k})$$
+$$
+1 - \sum_{k=0}^{z} \frac{\lambda^k e^{-\lambda}}{k!}(1-(q/p)^{z-k})
+$$
 
 Running some results, we can see the probability drop off exponentially with $z$:
 
