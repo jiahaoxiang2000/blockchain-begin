@@ -1,0 +1,8 @@
+{
+  "label": "paper reading",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Collection of papers on blockchain technology."
+  }
+}
